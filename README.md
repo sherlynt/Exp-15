@@ -45,7 +45,10 @@ int main(){
 }
 ```
 
-o/p:
+o/p: 
+
+![image](https://github.com/user-attachments/assets/42f228d4-17ca-4ba0-bbb0-a2b66c39aab9)
+
 
 
 
@@ -71,7 +74,10 @@ cout<<"Sum of numbers is:"<<X<<endl;
 return 0;
 }
 ```
-o/p:
+o/p: 
+
+![image](https://github.com/user-attachments/assets/bc8a8f60-4a4b-49bf-ae25-4c139f860501)
+
 
 
 
@@ -99,6 +105,9 @@ int main(){
 
 o/p:
 
+![image](https://github.com/user-attachments/assets/b2bdf6d4-b561-4c3c-96fc-b4f16b7a62f9)
+
+
 
 
 4. Reversing a number
@@ -124,6 +133,9 @@ int main() {
 ```
 
 o/p:
+
+![image](https://github.com/user-attachments/assets/8e65e207-8aa9-46f1-9e32-d46e9f116515)
+
 
 
 
